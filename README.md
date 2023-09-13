@@ -59,6 +59,12 @@ On the upper right side of Vscode there is a play button, click it and it will r
 <br>
 Make sure you have Webcam enabled in your settings.
 
+<br>
+
+These are the training graphs of model:
+
+![download](https://github.com/ProxyAyush/SortEase/assets/65772478/d5d32aaf-f1e9-474a-9ab3-8f1ec5b242ab)
+
 
 # Follow My Work on Linkedin 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
