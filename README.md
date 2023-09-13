@@ -5,6 +5,9 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
+<br>
+
+[![DOI](https://zenodo.org/badge/691037981.svg)](https://zenodo.org/badge/latestdoi/691037981)
 
 # SortEase
 WHERE BIOMEDICAL WASTE FINDS ITS PLACE​
