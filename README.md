@@ -9,11 +9,11 @@
 # SortEase
 WHERE BIOMEDICAL WASTE FINDS ITS PLACE​
 
-'''
+```
 py -m pip install ultralytics
-'''
+```
 
 
-'''
+```
 py -m pip install opencv-python
-'''
+```
