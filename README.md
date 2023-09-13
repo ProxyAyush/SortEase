@@ -9,10 +9,13 @@
 # SortEase
 WHERE BIOMEDICAL WASTE FINDS ITS PLACE​
 
+
+# Installation of Libraries
+We install the Ultralytics Library
 ```
 py -m pip install ultralytics
 ```
-
+then we will install the opencv library
 
 ```
 py -m pip install opencv-python
