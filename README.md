@@ -63,8 +63,8 @@ Make sure you have Webcam enabled in your settings.
 
 These are the training graphs of model:
 
-![download](https://github.com/ProxyAyush/SortEase/assets/65772478/d5d32aaf-f1e9-474a-9ab3-8f1ec5b242ab)
 
+![graphs](https://github.com/ProxyAyush/SortEase/assets/65772478/c45e9c29-96fe-4250-ab78-bda55fb891e5)
 
 # Follow My Work on Linkedin 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
