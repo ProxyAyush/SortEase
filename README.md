@@ -21,6 +21,9 @@ Download Link- https://code.visualstudio.com/download
   Install Vscode after it downloads<br>
   After installing Vscode, Run it.<br>
   You'll see a 'Open Folder' option, select the empty folder you just created and Open it<br>
+  <br>
+  Also install the python interpreter in vscode, on how to do that see this
+  <br>  https://code.visualstudio.com/docs/python/python-tutorial
 # Download Model and Inference file
 Download the best.pt file <br>
 Download the liveinference.py<br>
